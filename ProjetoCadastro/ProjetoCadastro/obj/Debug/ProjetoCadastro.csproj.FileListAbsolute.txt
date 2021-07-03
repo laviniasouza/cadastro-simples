@@ -1,0 +1,28 @@
+C:\Users\Diniz\Desktop\ProjetoCadastro\ProjetoCadastro\bin\Debug\ProjetoCadastro.exe.config
+C:\Users\Diniz\Desktop\ProjetoCadastro\ProjetoCadastro\bin\Debug\ProjetoCadastro.exe
+C:\Users\Diniz\Desktop\ProjetoCadastro\ProjetoCadastro\bin\Debug\ProjetoCadastro.pdb
+C:\Users\Diniz\Desktop\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.csprojResolveAssemblyReference.cache
+C:\Users\Diniz\Desktop\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.Form1.resources
+C:\Users\Diniz\Desktop\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.Properties.Resources.resources
+C:\Users\Diniz\Desktop\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.csproj.GenerateResource.Cache
+C:\Users\Diniz\Desktop\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.exe
+C:\Users\Diniz\Desktop\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.pdb
+C:\Users\Lavinia\Desktop\ProjetoCadastro\ProjetoCadastro\bin\Debug\ProjetoCadastro.exe.config
+C:\Users\Lavinia\Desktop\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.exe
+C:\Users\Lavinia\Desktop\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.pdb
+C:\Users\Lavinia\Desktop\ProjetoCadastro\ProjetoCadastro\bin\Debug\ProjetoCadastro.exe
+C:\Users\Lavinia\Desktop\ProjetoCadastro\ProjetoCadastro\bin\Debug\ProjetoCadastro.pdb
+C:\Users\Lavinia\Desktop\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.csprojResolveAssemblyReference.cache
+C:\Users\Lavinia\Desktop\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.Form1.resources
+C:\Users\Lavinia\Desktop\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.Properties.Resources.resources
+C:\Users\Lavinia\Desktop\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.csproj.GenerateResource.Cache
+C:\Users\lavin\Desktop\Projetos Lavi\Projeto cadastro simples C#\ProjetoCadastro\ProjetoCadastro\bin\Debug\ProjetoCadastro.exe.config
+C:\Users\lavin\Desktop\Projetos Lavi\Projeto cadastro simples C#\ProjetoCadastro\ProjetoCadastro\bin\Debug\ProjetoCadastro.exe
+C:\Users\lavin\Desktop\Projetos Lavi\Projeto cadastro simples C#\ProjetoCadastro\ProjetoCadastro\bin\Debug\ProjetoCadastro.pdb
+C:\Users\lavin\Desktop\Projetos Lavi\Projeto cadastro simples C#\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.csproj.AssemblyReference.cache
+C:\Users\lavin\Desktop\Projetos Lavi\Projeto cadastro simples C#\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.Form1.resources
+C:\Users\lavin\Desktop\Projetos Lavi\Projeto cadastro simples C#\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.Properties.Resources.resources
+C:\Users\lavin\Desktop\Projetos Lavi\Projeto cadastro simples C#\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.csproj.GenerateResource.cache
+C:\Users\lavin\Desktop\Projetos Lavi\Projeto cadastro simples C#\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.csproj.CoreCompileInputs.cache
+C:\Users\lavin\Desktop\Projetos Lavi\Projeto cadastro simples C#\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.exe
+C:\Users\lavin\Desktop\Projetos Lavi\Projeto cadastro simples C#\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.pdb
